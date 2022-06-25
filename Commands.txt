@@ -1,0 +1,3 @@
+ng add @ng-bootstrap/ng-bootstrap
+
+website for bootstrap angular: ng-bootstrap.github.io
